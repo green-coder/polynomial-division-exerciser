@@ -1,0 +1,15 @@
+[aria-hidden=true] {
+  display: none;
+}
+
+.step-table {
+  table-layout: auto;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.step-table td {
+  padding-left: 1em;
+  padding-right: 1em;
+}
