@@ -9,3 +9,9 @@ Then launch the compiler in watch mode:
 ```shell
 shadow-cljs watch frontend
 ```
+
+## License terms
+
+Copyright (c) Vincent Cantin.
+
+This webapp is distributed under the terms of the Eclipse Public License version 2.0.
